@@ -1,0 +1,23 @@
+{
+  "name": "numucards-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmAiR1Kh/CodeKata.git"
+  },
+  "author": "omair khoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OmAiR1Kh/CodeKata/issues"
+  },
+  "homepage": "https://github.com/OmAiR1Kh/CodeKata#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20"
+  }
+}
