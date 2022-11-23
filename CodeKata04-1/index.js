@@ -1,6 +1,5 @@
 const fs = require("fs");
 
-const fileName = "./weather.dat";
 fs.readFile("./weather.dat", "utf8", function (err, data) {
   if (err) throw err;
 
